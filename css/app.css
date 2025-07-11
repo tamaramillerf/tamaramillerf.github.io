@@ -100,7 +100,6 @@ footer {
 }
 
 .skill {
-  float: left;
   width: 120px;
   height: 140px;
   background: #fdfaf6;
@@ -111,6 +110,7 @@ footer {
   padding: 10px;
   margin: 10px;
 }
+
 
 .skill h3 {
   font-size: 0.9em;
@@ -133,4 +133,13 @@ footer {
   padding-bottom: 4px;
   border-bottom: 1px solid #c8dace;
 }
+
+.skillset {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 20px;
+  margin-bottom: 40px;
+  justify-content: flex-start;
+}
+
 
