@@ -99,33 +99,38 @@ footer {
   border-top: 1px solid #dfeee4;
 }
 
-.skillset {
-  display: block;
-  width: 100%;
-  margin-bottom: 40px;
-}
-
 .skill {
   float: left;
-  min-width: 180px;
-  height: 200px;
+  width: 120px;
+  height: 140px;
   background: #fdfaf6;
-  border-radius: 16px;
-  border: 2px solid #c8dace;
-  box-shadow: 2px 2px 6px rgba(0, 0, 0, 0.05);
+  border-radius: 10px;
+  border: 1px solid #c8dace;
+  box-shadow: 1px 1px 4px rgba(0, 0, 0, 0.05);
   text-align: center;
   padding: 10px;
-  margin: 0 15px 20px 0;
+  margin: 10px;
+}
+
+.skill h3 {
+  font-size: 0.9em;
+  margin-top: 8px;
+  color: #2c5f2d;
+}
+
+.skill p {
+  font-size: 0.8em;
+  color: #666;
+  margin-top: 5px;
 }
 
 .icon {
-  width: 48px;
-  height: 48px;
+  width: 36px;
+  height: 36px;
   object-fit: contain;
-  margin-bottom: 10px;
-  border-bottom: 1px solid #c8dace;
-  padding-bottom: 7px;
   display: block;
-  margin-left: auto;
-  margin-right: auto;
+  margin: 0 auto 8px;
+  padding-bottom: 4px;
+  border-bottom: 1px solid #c8dace;
 }
+
