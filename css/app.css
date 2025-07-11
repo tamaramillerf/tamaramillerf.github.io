@@ -119,10 +119,13 @@ footer {
 }
 
 .icon {
-  width: 60px;
-  height: 60px;
+  width: 48px;
+  height: 48px;
   object-fit: contain;
   margin-bottom: 10px;
   border-bottom: 1px solid #c8dace;
   padding-bottom: 7px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
 }
