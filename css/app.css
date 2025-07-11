@@ -22,7 +22,7 @@ header {
   justify-content: center; 
   font-size: 1em;
   text-align: center;
-  padding-top: 200px;
+  padding-top: 0;
   font-family: "Press Start 2P", system-ui;
   color: #fdfaf6;
   text-shadow: 2px 2px 5px rgba(44, 95, 45, 0.7);
