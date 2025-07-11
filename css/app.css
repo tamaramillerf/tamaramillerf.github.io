@@ -98,3 +98,31 @@ footer {
   padding-top: 18px;
   border-top: 1px solid #dfeee4;
 }
+
+.skillset {
+  display: block;
+  width: 100%;
+  margin-bottom: 40px;
+}
+
+.skill {
+  float: left;
+  min-width: 180px;
+  height: 200px;
+  background: #fdfaf6;
+  border-radius: 16px;
+  border: 2px solid #c8dace;
+  box-shadow: 2px 2px 6px rgba(0, 0, 0, 0.05);
+  text-align: center;
+  padding: 10px;
+  margin: 0 15px 20px 0;
+}
+
+.icon {
+  width: 60px;
+  height: 60px;
+  object-fit: contain;
+  margin-bottom: 10px;
+  border-bottom: 1px solid #c8dace;
+  padding-bottom: 7px;
+}
