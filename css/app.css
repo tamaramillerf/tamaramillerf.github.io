@@ -101,7 +101,7 @@ footer {
 
 .skill {
   width: 110px;
-  height: 130px;
+  height: 140px;
   background: #fdfaf6;
   border-radius: 10px;
   border: 1px solid #c8dace;
@@ -123,7 +123,6 @@ footer {
   font-size: 0.65em;
   color: #666;
   margin-top: 4px;
-  margin-bottom: 6px;
 }
 
 .icon {
