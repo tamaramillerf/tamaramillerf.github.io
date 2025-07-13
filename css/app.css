@@ -107,7 +107,7 @@ footer {
   border: 1px solid #c8dace;
   box-shadow: 1px 1px 4px rgba(0, 0, 0, 0.05);
   text-align: center;
-  padding: 10px 10px 15px;  
+  padding: 10px;
   margin: 8px;
   flex: 1 0 110px;
 }
@@ -123,6 +123,7 @@ footer {
   font-size: 0.65em;
   color: #666;
   margin-top: 4px;
+  margin-bottom: 6px;
 }
 
 .icon {
